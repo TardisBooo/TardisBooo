@@ -9,7 +9,7 @@ Agent and systems engineering.
 
 ## Projects
 
-- [Möbius](https://github.com/TardisBooo/Mobius) — a Rust/Tauri workspace for Codex, Claude Code, Pi and Grok. It provides precise and full-text session search, trajectory-based handoffs, a handoff graph, Markdown notes, a multimedia canvas and native PowerShell tabs. [Product page](http://8.137.87.76/mobius/)
+- [Möbius](https://github.com/TardisBooo/Mobius) — a Rust/Tauri Windows workspace for Codex, Claude Code, Pi, Grok and OMP. It provides precise `@session` references, local FTS/BM25 search, reference-only handoffs, a project handoff graph, Markdown notes, a multimedia canvas and native PowerShell tabs. Current preview: [v0.3.19](https://github.com/TardisBooo/Mobius/releases/tag/v0.3.19). [Product page](http://8.137.87.76/mobius/)
 - [prewalk](https://github.com/TardisBooo/prewalk) — a two-phase execution layer for Codex CLI and Claude Code: the frontier planner completes and verifies the first edit, then a cheaper executor inherits the trajectory or a durable checkpoint. It adds atomic state transitions, fail-closed routing, reject-retry validation and recoverable handoffs.
 - [tigang-reminder](https://github.com/TardisBooo/tigang-plugin) — a small hook plugin that adds deterministic post-commit and post-push reminders without model calls or network access.
 - [ViewAtom](https://viewatom.com) — a financial-research Agent that turns market signals into auditable workflows: source- and time-bound evidence, verified versus derived claims, topic/entity graphs, recoverable event streams and cited research artifacts.
