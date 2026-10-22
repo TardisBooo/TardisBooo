@@ -7,10 +7,6 @@ easier to inspect, continue and share.
 
 Agent and systems engineering.
 
-## Portfolio
-
-Personal technical portfolio (separate from the project list and public links):
-[tardisbooo.github.io/portfolio](https://tardisbooo.github.io/portfolio/)
 
 ## Projects
 
